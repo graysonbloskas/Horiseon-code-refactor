@@ -16,3 +16,6 @@ I was instructed to take an existing code base, inlcuding html and css style she
 * added "class benefit-specs" under the aforementioned section, because there was originally 3 css tags for each paragraph, icon, and title on the side bar. 
 
 ## Completed Website
+### Link to website
+https://graysonbloskas.github.io/Horiseon-code-refactor/
+### Screenshot of live site
