@@ -18,4 +18,5 @@ I was instructed to take an existing code base, inlcuding html and css style she
 ## Completed Website
 ### Link to website
 https://graysonbloskas.github.io/Horiseon-code-refactor/
-### Screenshot of live site
+
+![live site](https://user-images.githubusercontent.com/79467387/111857954-2266c600-8903-11eb-8d47-23a42c27c02d.png)
